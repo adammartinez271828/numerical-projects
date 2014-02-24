@@ -1,0 +1,53 @@
+Major Airports (U.S.A.)
+
+ 32 17 59  86 24  0 Montgomery, AL
+ 58 22 11 134 34 48 Juneau, AK
+ 33 25 48 112  1 11 Phoenix, AZ
+ 35 13 12  92 22 47 Little Rock, AR
+ 38 31 12 121 30  0 Sacramento, CA
+ 39 45  0 104 52 12 Denver, CO
+ 41 43 47  72 39  0 Hartford, CT
+ 39  7 48  75 28 12 Dover, DE
+ 30 22 47  84 22 12 Tallahassee, FL
+ 33 39  0  84 25 11 Atlanta, GA
+ 21 21  0 157 55 47 Honolulu, HI
+ 43 34 11 116 13 12 Boise, ID
+ 39 50 59  89 40 11 Springfield, IL
+ 39 43 47  86 16 11 Indianapolis, IN
+ 41 31 47  93 39  0 Des Moines, IA
+ 39  4 11  95 37 12 Topeka, KS
+ 38  2 59  85  0  0 Lexington, KY
+ 30 31 48  91  9  0 Baton Rouge, LA
+ 44 19 11  69 48  0 Augusta, ME
+ 39 10 48  76 40 11 Baltimore, MD
+ 42 22 11  71  1 47 Boston, MA
+ 42 46 12  84 35 59 Lansing, MI
+ 44 55 48  93  3  0 Saint Paul, MN
+ 32 19 11  90  4 48 Jackson, MS
+ 38 35 59  92 10 11 Jefferson, MO
+ 46 35 59 112  0  0 Helena, MT
+ 40 50 59  96 45  0 Lincoln, NE
+ 39 30  0 119 46 47 Reno, NV
+ 43 12  0  71 30  0 Concord, NH
+ 40 16 47  74 49 11 Trenton, NJ
+ 35 37 11 106  4 48 Santa Fe, NM
+ 42 45  0  73 48  0 Albany, NY
+ 35 52 11  78 46 47 Raleigh, NC
+ 46 46 12 100 45  0 Bismarck, ND
+ 40  0  0  82 52 47 Columbus, OH
+ 35 24  0  97 35 59 Oklahoma City, OK
+ 44 55 11 123  0  0 Salem, OR
+ 40 22 11  77 25 11 Harrisburg, PA
+ 41 43 47  71 25 48 Providence, RI
+ 33 57  0  81  7 12 Columbia, SC
+ 44 22 48 100 16 47 Pierre, SD
+ 36  7 11  86 40 48 Nashville, TN
+ 30 17 59  97 41 59 Austin, TX
+ 40 46 47 111 58 12 Salt Lake City, UT
+ 44 12  0  72 34 11 Montpelier, VT
+ 37 30  0  77 19 48 Richmond, VA
+ 46 58 12 122 54  0 Olympia, WA
+ 38 22 11  81 35 59 Charleston, WV
+ 43  7 48  89 19 48 Madison, WI
+ 41  9  0 104 49  1 Cheyenne, WY
+ 38 50 59  77  2 24 Washington, DC
